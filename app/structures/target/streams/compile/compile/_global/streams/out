@@ -1,0 +1,318 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:5:1: package akka.actor does not exist[0m
+[0m[[0m[31merror[0m] [0m[0makka.actor.ActorRef[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:6:1: package commands does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mcommands.BasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:7:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.Card[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:8:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.EffectAnimation[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:9:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.GameBoard[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:10:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.HumanPlayer[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:11:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.Player[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:12:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.Tile[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:13:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.Unit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:14:1: package structures.basic.AI_Logic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.AI_Logic.AiPlayer[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:15:1: package structures.basic.spells does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.spells.Spell[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:16:1: package structures.basic.spells does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.spells.SpellBuilder[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:17:1: package utils does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mutils.BasicObjectBuilders[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:22:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class GameBoard[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mGameBoard[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:23:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class ActorRef[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mActorRef[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:24:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class ActorRef[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mActorRef[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:6:1: package akka.actor does not exist[0m
+[0m[[0m[31merror[0m] [0m[0makka.actor.ActorRef[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:7:1: package commands does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mcommands.BasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:8:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.BadOmen[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:9:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.BloodPriestess[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:10:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.Card[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:11:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.GloomChaser[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:12:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.IroncliffGuardian[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:13:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.NightsorrowAssassin[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:14:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.RockPulveriser[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:15:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.SaberspineTiger[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:16:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.ShadowDancer[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:17:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.ShadowWatcher[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:18:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.SilverGuardSquire[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:19:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.SilverguardKnight[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:20:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.SwampEntangler[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:21:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.Tile[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:22:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.Unit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:23:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.YoungFlamewing[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:24:1: package utils does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mutils.BasicObjectBuilders[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:25:1: package utils does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mutils.StaticConfFiles[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:27:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class SpellBuilder[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mSpellBuilder[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:28:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class SpellBuilder[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mSpellBuilder[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:31:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class HumanPlayer[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mHumanPlayer[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:32:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Player[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mPlayer[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:33:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Player[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mPlayer[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:34:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class AiPlayer[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mAiPlayer[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:36:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Unit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mUnit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:39:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Unit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mUnit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:42:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Unit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mUnit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:57:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Unit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mUnit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:58:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Tile[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mTile[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:59:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Card[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mCard[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:60:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Spell[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mSpell[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:75:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Tile[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mTile[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:76:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Tile[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mTile[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:6:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.Unit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:7:1: package structures.basic.GameEventListeners does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.GameEventListeners.AvatarDamagedListener[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:8:1: package structures.basic.GameEventListeners does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.GameEventListeners.Deathwatch[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:9:1: package structures.basic.GameEventListeners does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.GameEventListeners.NewTurnListener[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:10:1: package structures.basic.GameEventListeners does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.GameEventListeners.OpeningGambit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:94:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class ActorRef[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mActorRef[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:101:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Unit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mUnit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:173:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Tile[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mTile[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:346:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Unit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mUnit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:374:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Tile[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mTile[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:387:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Card[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mCard[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:14:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class NewTurnListener[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameEventController[0m
+[0m[[0m[31merror[0m] [0m[0mNewTurnListener[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:15:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Deathwatch[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameEventController[0m
+[0m[[0m[31merror[0m] [0m[0mDeathwatch[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:16:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class OpeningGambit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameEventController[0m
+[0m[[0m[31merror[0m] [0m[0mOpeningGambit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:17:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class AvatarDamagedListener[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameEventController[0m
+[0m[[0m[31merror[0m] [0m[0mAvatarDamagedListener[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:20:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Deathwatch[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameEventController[0m
+[0m[[0m[31merror[0m] [0m[0mDeathwatch[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:21:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class OpeningGambit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameEventController[0m
+[0m[[0m[31merror[0m] [0m[0mOpeningGambit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:37:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class NewTurnListener[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameEventController[0m
+[0m[[0m[31merror[0m] [0m[0mNewTurnListener[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:40:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class NewTurnListener[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameEventController[0m
+[0m[[0m[31merror[0m] [0m[0mNewTurnListener[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:43:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Deathwatch[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameEventController[0m
+[0m[[0m[31merror[0m] [0m[0mDeathwatch[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:47:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Deathwatch[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameEventController[0m
+[0m[[0m[31merror[0m] [0m[0mDeathwatch[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:50:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class OpeningGambit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameEventController[0m
+[0m[[0m[31merror[0m] [0m[0mOpeningGambit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:56:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class OpeningGambit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameEventController[0m
+[0m[[0m[31merror[0m] [0m[0mOpeningGambit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:60:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class AvatarDamagedListener[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameEventController[0m
+[0m[[0m[31merror[0m] [0m[0mAvatarDamagedListener[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:63:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class AvatarDamagedListener[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameEventController[0m
+[0m[[0m[31merror[0m] [0m[0mAvatarDamagedListener[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameEventController.java:111:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Unit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameEventController[0m
+[0m[[0m[31merror[0m] [0m[0mUnit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:35:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class ActorRef[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.UnitBuilder[0m
+[0m[[0m[31merror[0m] [0m[0mActorRef[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:38:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class ActorRef[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.UnitBuilder[0m
+[0m[[0m[31merror[0m] [0m[0mActorRef[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:43:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Card[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.UnitBuilder[0m
+[0m[[0m[31merror[0m] [0m[0mCard[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:43:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Unit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.UnitBuilder[0m
+[0m[[0m[31merror[0m] [0m[0mUnit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:159:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Unit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.UnitBuilder[0m
+[0m[[0m[31merror[0m] [0m[0mUnit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:173:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Tile[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.UnitBuilder[0m
+[0m[[0m[31merror[0m] [0m[0mTile[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilder.java:189:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Unit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.UnitBuilder[0m
+[0m[[0m[31merror[0m] [0m[0mUnit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilderTest.java:3:1: package org.junit.jupiter.api does not exist[0m
+[0m[[0m[31merror[0m] [0m[0morg.junit.jupiter.api.Assertions[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilderTest.java:5:1: package org.junit.jupiter.api does not exist[0m
+[0m[[0m[31merror[0m] [0m[0morg.junit.jupiter.api.Test[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilderTest.java:8:1: package structures.basic does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mstructures.basic.Unit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilderTest.java:13:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Test[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.UnitBuilderTest[0m
+[0m[[0m[31merror[0m] [0m[0mTest[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/UnitBuilderTest.java:20:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Test[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.UnitBuilderTest[0m
+[0m[[0m[31merror[0m] [0m[0mTest[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:108:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable BasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mBasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:140:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Unit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mUnit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:142:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Tile[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mTile[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:159:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable BasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mBasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:187:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable BasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mBasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:216:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable BasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mBasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:284:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Unit[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mUnit[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:323:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable BasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mBasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:336:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable BasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mBasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:356:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable BasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mBasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/ndukaofoeyeno/Desktop/msc-team-project/app/structures/GameController.java:359:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable BasicCommands[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.GameController[0m
+[0m[[0m[31merror[0m] [0m[0mBasicCommands[0m

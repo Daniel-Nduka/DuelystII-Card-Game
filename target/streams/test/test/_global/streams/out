@@ -1,0 +1,63 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 4 initial tasks for 4 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(SpellBuilderTest, sbt.ForkMain$AnnotatedFingerscan@3f4ad6a9, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mSpellBuilderTest[0m.[36mtestCreateSpell[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mSpellBuilderTest[0m.[36mtestCreateSpell[0m finished, took 0.013 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 1 total, 0.022s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(test, sbt.ForkMain$AnnotatedFingerscan@1d737161, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mtest[0m.[36mtestCreateWraithling[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mtest[0m.[36mtestCreateWraithling[0m finished, took 0.28 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mtest[0m.[36mtestCreateSpell[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mtest[0m.[36mtestCreateSpell[0m finished, took 0.0 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mtest[0m.[36mtestSpawnWraithling[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest [33mtest[0m.[31mtestSpawnWraithling[0m failed: java.lang.[31mNullPointerException[0m: null, took 0.005 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at structures.UnitBuilder.spawnWraithling(UnitBuilder.java:180)[0m
+[0m[[0m[31merror[0m] [0m[0m    at test.testSpawnWraithling([35mtest.java[0m:[33m52[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:566)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mtest[0m.[36mtestSpawnWraithling[0m finished, took 0.006 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mtest[0m.[36mtestCreateUnit[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mtest[0m.[36mtestCreateUnit[0m finished, took 0.034 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[31m1 failed[0m[34m, [0m[34m0 ignored[0m[34m, 4 total, 0.322s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 4 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(InitalizationTest, sbt.ForkMain$AnnotatedFingerscan@5d49903a, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mInitalizationTest[0m.[36mcheckInitalized[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mInitalizationTest[0m.[36mcheckInitalized[0m finished, took 0.376 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 1 total, 0.376s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(UnitBuilderTest, sbt.ForkMain$AnnotatedFingerscan@47dbab47, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mUnitBuilderTest[0m.[36mtestCreateWraithling[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mUnitBuilderTest[0m.[36mtestCreateWraithling[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mUnitBuilderTest[0m.[36mtestSpawnWraithling[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest [33mUnitBuilderTest[0m.[31mtestSpawnWraithling[0m failed: java.lang.[31mNullPointerException[0m: null, took 0.002 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at structures.UnitBuilder.spawnWraithling(UnitBuilder.java:180)[0m
+[0m[[0m[31merror[0m] [0m[0m    at UnitBuilderTest.testSpawnWraithling([35mUnitBuilderTest.java[0m:[33m46[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[0m[31merror[0m] [0m[0m    at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[0m[31merror[0m] [0m[0m    at java.lang.reflect.Method.invoke(Method.java:566)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mUnitBuilderTest[0m.[36mtestSpawnWraithling[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mUnitBuilderTest[0m.[36mtestCreateUnit[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mUnitBuilderTest[0m.[36mtestCreateUnit[0m finished, took 0.006 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[31m1 failed[0m[34m, [0m[34m0 ignored[0m[34m, 3 total, 0.009s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 3 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[31merror[0m] [0m[0mFailed: Total 9, Failed 2, Errors 0, Passed 7[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InitalizationTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SpellBuilderTest[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	UnitBuilderTest[0m
+[0m[[0m[31merror[0m] [0m[0m	test[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m
